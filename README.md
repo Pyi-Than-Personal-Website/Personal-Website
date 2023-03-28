@@ -1,2 +1,1 @@
-# Personal-Website
-# Update to readme file
+# Personal website
